@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeanDeluge
-- 👀 I’m interested in JavaScript Node.js and Android App with Kotlin
+- 👀 I’m interested in JavaScript Node.js, RubyOnRails and Android App with Kotlin
 - 🌱 I’m currently learning Node.js with Express
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
