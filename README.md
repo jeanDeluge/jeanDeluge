@@ -50,10 +50,9 @@
 
 
 # 📢 Introduce
-AI Engineer who wants to create an "Awesome New World"!
+AI Engineer 
 - Interested in LLM
 - Interested in Generative AI
-
 
 # 📁 Project
 | Description | Tech | Team | Period | Link | State | 
