@@ -59,7 +59,7 @@ AI Engineer
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | 도서관 사서를 도와주기 위한 AI 장서점검 및 AI 패스파인더 앱| Flask, Python, Sklearn, yolov8, puppeteer, easyocr, opencv | ![사서 소피아](https://img.shields.io/badge/Team-red) | 23.08.01 ~ 23.08.18 | [Repo](https://github.com/jeanDeluge/octaforaugust)| Public |
 | 최애가수의 목소리로 내가 원하는 곡 부르게 하기 | FastAPI, Python, react, javascript |  ![가보자고](https://img.shields.io/badge/Team-red) | 23.9.1~ 23.9.30 | [Repo](https://github.com/jeanDeluge/dreamshaper_server)| Public|
-
+| 현지에서 한국계 스타트업에 취업한 베트남 개발자 및 스타트업을 위한 한국어 서비스 | Python, Whisper, react, Spring | ![가보자고](https://img.shields.io/badge/Team-red) |23.10.01 ~ 23.11.28 | [Repo](https://github.com/orgs/NoR3ST/repositories) | Public|
 
 # ⛺ Blog
 [![Velog](https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jean_deluge)
