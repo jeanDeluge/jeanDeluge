@@ -57,8 +57,8 @@ AI Engineer
 # 📁 Project
 | Description | Tech | Team | Period | Link | State | 
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| 도서관 사서를 도와주기 위한 AI 장서점검 및 AI 패스파인더 앱| Flask, Python, Sklearn, yolov8, puppeteer, easyocr, opencv | ![Team](https://img.shields.io/badge/Team-red) | 23.08.01 ~ 23.08.18 | [Repo](https://github.com/Blessian/juju_chatbot) | Private |
-
+| 도서관 사서를 도와주기 위한 AI 장서점검 및 AI 패스파인더 앱| Flask, Python, Sklearn, yolov8, puppeteer, easyocr, opencv | ![사서 소피아](https://img.shields.io/badge/Team-red) | 23.08.01 ~ 23.08.18 | [Repo](https://github.com/Blessian/juju_chatbot) | Private |
+| 최애가수의 목소리로 내가 원하는 곡 부르게 하기 | FastAPI, Python, react, javascript |  ![가보자고](https://img.shields.io/badge/Team-red) | 23.9.1~ 23.9.30 | [Repo](https://github.com/jeanDeluge/dreamshaper_server)| Public|
 
 
 # ⛺ Blog
